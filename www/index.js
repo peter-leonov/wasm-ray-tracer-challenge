@@ -1,3 +1,3 @@
 import * as wasm from "ray-tracer";
 
-wasm.greet();
+wasm.greet("Peter");
